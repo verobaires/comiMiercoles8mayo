@@ -50,6 +50,10 @@ nav a img {
     margin-right: 10px;
 }
 
+nav.fondoRojo{
+    background-color: red;
+}
+
 ul {
     align-items: center;
     justify-content: space-around;
