@@ -46,6 +46,10 @@ nav {
     justify-content: space-between;
 }
 
+nav.fondoAzul{
+    background-color: blue;
+}
+
 nav a img {
     margin-right: 10px;
 }
